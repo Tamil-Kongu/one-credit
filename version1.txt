@@ -2,3 +2,6 @@ This is my sample document 1
 Line 1: GitHub and Git
 2. Google
 3. Caterpillar
+
+3. Facebook
+4. Amazon
